@@ -2,10 +2,11 @@
   "name": "The Big Vault",
   "description": "Big hub with a lot of information",
   "theme": {
-    "primary": "#ffffff",
+    "primaryDark": "#ffffff",
+    "primaryLight": "#000000",
     "backgroundDark": "#000000",
-    "backgroundLight": "#1c1c1c",
-    "defaultTheme": "light"
+    "backgroundLight": "#ffffff",
+    "defaultTheme": "dark"
   },
   "logo": {
     "light": "/assets/logos/logo-black.png",
