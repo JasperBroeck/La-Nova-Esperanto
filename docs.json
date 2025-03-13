@@ -8,10 +8,6 @@
     "backgroundLight": "#ffffff",
     "defaultTheme": "dark"
   },
-  "logo": {
-    "light": "/assets/logos/logo-black.png",
-    "dark": "/assets/logos/logo-white.png"
-  },
   "favicon": "/assets/logos/favicon.ico",
   "sidebar": [
   {
