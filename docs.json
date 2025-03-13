@@ -5,7 +5,7 @@
     "primary": "#ffffff",
     "backgroundDark": "#000000",
     "backgroundLight": "#1c1c1c",
-    "defaultTheme": "dark"
+    "defaultTheme": "light"
   },
   "logo": {
     "light": "/assets/logos/logo-black.png",
